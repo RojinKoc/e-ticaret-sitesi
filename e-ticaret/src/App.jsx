@@ -1,10 +1,14 @@
 import './App.css'
+import Header from './components/Header'
+import PageContainer from './container/PageContainer'
 
 function App() {
 
   return (
     <div>
-      E-ticaret Sitesi
+      <PageContainer>
+        <Header/>
+      </PageContainer>
     </div>
   )
 }
