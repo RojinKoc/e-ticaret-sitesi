@@ -1,6 +1,6 @@
 import './App.css'
 import Header from './components/Header'
-import PageContainer from './container/PageContainer'
+import PageContainer from './container/pageContainer'
 
 function App() {
 
